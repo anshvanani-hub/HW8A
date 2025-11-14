@@ -1,0 +1,15 @@
+{
+  "name": "hw8a-ex3",
+  "version": "1.0.0",
+  "description": "HW8A Exercise 3 - Playing with dates using moment",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
+
+
